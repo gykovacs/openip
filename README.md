@@ -7,11 +7,11 @@ This is a lightweight image processing library developed to support academic, re
 ## How to build
 
 Building the library requires:
-    * <code>cmake</code> - to manage the build process,
-    * <code>libgsl</code> - for numerical methods,
-    * <code>libpng</code> - for PNG IO,
-    * <code>libjpeg</code> - for JPG IO,
-    * <code>libtiff</code> - for TIFF IO.
+* <code>cmake</code> - to manage the build process,
+* <code>libgsl</code> - for numerical methods,
+* <code>libpng</code> - for PNG IO,
+* <code>libjpeg</code> - for JPG IO,
+* <code>libtiff</code> - for TIFF IO.
     
 ## Components
 
