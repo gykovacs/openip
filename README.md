@@ -16,11 +16,11 @@ Building the library requires:
 ## Components
 
 The library has 5 main components:
-    * <code>openipDS</code> - the core data structures like Vector, Image, Volume, Filter, etc.;
-    * <code>openipIO</code> - the IO interfaces;
-    * <code>openipSC</code> - interfaces to GSL;
-    * <code>openipLL</code> - high level image processing algorithms, like skeletonization, segmentation, etc.;
-    * <code>openipML</code> - machine learning techniques, like decision trees, Support Vector Machines, etc.
+* <code>openipDS</code> - the core data structures like Vector, Image, Volume, Filter, etc.;
+* <code>openipIO</code> - the IO interfaces;
+* <code>openipSC</code> - interfaces to GSL;
+* <code>openipLL</code> - high level image processing algorithms, like skeletonization, segmentation, etc.;
+* <code>openipML</code> - machine learning techniques, like decision trees, Support Vector Machines, etc.
     
 ## Applications
 
